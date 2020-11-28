@@ -11,6 +11,14 @@ links:
     url: "http://shiffman.net/a2z"
   - title: "p5.js Instance Mode reference"
     url: "https://github.com/processing/p5.js/wiki/Instantiation-Cases"
+   
+contributions:
+  - title: "Website-Doodler (Multi-color)(Extension)"
+    author: "Chaitanya Singh"
+    url: contributions:
+  - title: "10PRINT with Perlin Noise"
+    author: "Red Hen"
+    url: https://github.com/ChaitanyaSingh11/Doodler-Chrome.git
 
 videos:
   - title: "Instance Mode"
